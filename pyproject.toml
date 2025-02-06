@@ -1,0 +1,15 @@
+[project]
+name = "community"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "astropy>=6.0.1",
+    "astroquery>=0.4.9.post1",
+    "matplotlib>=3.9.4",
+    "numpy>=1.26.4",
+    "robust>=0.2.7",
+    "scipy>=1.13.1",
+    "tqdm>=4.67.1",
+]
