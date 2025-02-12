@@ -7,3 +7,4 @@ Additionally, it has been refactored so it can be installed as a package, but if
 
 ## Repositories connected to the MATISSE-Consortium
 - Reading and writing OIFITS files: [oifits](https://github.com/pboley/oifits) (by P. Boley)
+- Software for interactive Fourier space visualisation (in interferometric context) [fourim](https://github.com/MBSck/fourim) (by M. B. Scheuck)
