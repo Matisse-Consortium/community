@@ -8,3 +8,4 @@ Additionally, it has been refactored so it can be installed as a package, but if
 ## Links to fruther repositories
 - [oifits](https://github.com/pboley/oifits) for reading, writing and visualising OIFITS files, by P. Boley
 - [fourim](https://github.com/MBSck/fourim) for interactive Fourier space visualisation (in an interferometric context), by M. B. Scheuck
+- [p2obt](https://github.com/MBSck/p2obt) for automatically creating observation blocks (OBs) on the ESO P2 interface, by M. B. Scheuck
