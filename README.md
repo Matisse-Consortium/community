@@ -1,5 +1,5 @@
 # Community Code
-This repository contains code from members of the MATISSE community.
+This repository contains code from members of the MATISSE community or code closely related to it.
 
 > [!NOTE]
 > The code provided in this repository might not be entirely well documented.
